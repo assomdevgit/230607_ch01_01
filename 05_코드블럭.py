@@ -11,7 +11,12 @@ print("못 믿으시겠어요?")
 print("vcs >> GitHub 프로젝트 공유 클릭")
 # GitHub 프로젝트 공유를 하였더니, 상단 도구모음이 Git으로 변경되었다.
 # 커밋 및 여러 기능들이 생성되어서 컨트롤할 수 있다.
+
+# gitHub 계정이 등록 안될 경우 git Bash
 # git Bash에서 git config --global user.email "XXXXXXXXXXXXXXX"
 # git Bash에 git config --global user.name "XXXXXXXXXXXXXXX"
+
 # gitHub 기존 등록된 계정 삭제하는 방법은 ...
+# git config user.email --> 확인해 보기 (계정 확인 방법)
+# git config user.name --> 확인해 보기 (계정 ID)
 # windows 자격증명 (제어판>사용자 계정>자격증명관리>> windows자격증명 >> 일반 자격 증명에서 github 제거
